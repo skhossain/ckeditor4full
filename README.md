@@ -8,6 +8,7 @@ This is modifiy ckeditor 4 form oficial editor
 Use
 
 import Vue from 'vue';
+
 import CKEditor from 'ckeditor4full-vue';
 
 Vue.use( CKEditor );
